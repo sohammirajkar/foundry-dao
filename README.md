@@ -1,6 +1,4 @@
-Sure, here's the updated README.md file tailored for using the Makefile you provided:
 
-```
 # Decentralized Autonomous Organization (DAO)
 
 ## Introduction
@@ -13,23 +11,28 @@ A Decentralized Autonomous Organization (DAO) is an organization represented by 
 
 ### Uses of DAOs Today
 
-#### Governance:
+#### Governance
+
 Many DAOs are created to manage decentralized governance, allowing token holders to vote on proposals and make decisions collectively without the need for a central authority.
 
-#### Funding:
+#### Funding
+
 DAOs can be used for decentralized funding, where members contribute funds to a pool, and decisions on how to allocate those funds are made collectively by the members.
 
-#### Decentralized Applications (DApps):
+#### Decentralized Applications (DApps)
+
 Some DAOs serve as the backbone for decentralized applications, providing a framework for decision-making and resource allocation within the application.
 
 ## Pros and Cons of Using DAOs
 
-### Pros:
+### Pros
+
 - **Transparency**: All actions and decisions within a DAO are recorded on the blockchain, providing transparency to all members.
 - **Decentralization**: DAOs eliminate the need for a central authority, allowing for distributed decision-making.
 - **Trustless Execution**: Smart contracts ensure that actions are executed as programmed without the need for trust between parties.
 
-### Cons:
+### Cons
+
 - **Legal Uncertainty**: The legal status of DAOs is still uncertain in many jurisdictions, leading to regulatory challenges.
 - **Security Risks**: Smart contracts are vulnerable to bugs and vulnerabilities, which can lead to security breaches and loss of funds.
 - **Governance Challenges**: Achieving consensus among members of a DAO can be challenging, leading to governance issues and potential conflicts.
@@ -39,6 +42,7 @@ Some DAOs serve as the backbone for decentralized applications, providing a fram
 To get started with our DAO project, follow these steps:
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/sohammirajkar/DAO.git
    ```
@@ -81,7 +85,6 @@ We welcome contributions from the community! If you have any ideas, bug fixes, o
 
 This project is licensed under the [MIT License](LICENSE).
 
-```
-
 Feel free to adjust and customize it further if needed!
+
 # DAO
